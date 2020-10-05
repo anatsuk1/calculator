@@ -24,5 +24,5 @@ Build on macOS Catalina
 
 ## Internal API Document
 
-[Javadoc Document](document/index.html)
+[Javadoc Document](https://anatsuk1.github.io/calculator/)
 
