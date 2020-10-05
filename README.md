@@ -24,5 +24,5 @@ Build on macOS Catalina
 
 ## Internal API Document
 
-[Javadoc Document](document/)
+[Javadoc Document](document/index.html)
 
